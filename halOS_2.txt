@@ -1,0 +1,10 @@
+HAL - Prozessoren :
+2 HAL_Graph/p2.hal
+1 HAL_Graph/p1.hal
+3 HAL_Graph/p3.hal
+4 HAL_Graph/p4.hal
+HAL - Verbindungen :
+2 : 3 > 3 : 3
+2 : 2 > 1 : 3
+3 : 2 > 1 : 2
+1 : 4 > 4 : 2

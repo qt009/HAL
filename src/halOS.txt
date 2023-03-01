@@ -1,0 +1,6 @@
+HAL - Prozessoren :
+1 Pfad zum Hal - Programm fuer HAL - Prozessor 1
+2 Pfad zum Hal - Programm fuer HAL - Prozessor 2
+HAL - Verbindungen :
+1 : 3 > 2 : 2
+2 : 4 > 3 : 4
